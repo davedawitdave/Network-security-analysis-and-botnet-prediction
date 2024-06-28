@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to detect botnet activities in network traffic using machine learning and data analysis techniques. Botnets pose significant threats to network security, and timely detection can prevent widespread damage. The project encompasses data preprocessing, exploratory data analysis, feature selection, model building, hyperparameter tuning, and clustering.
+This project aims to detect botnet activities in network traffic using machine learning and data analysis techniques. Botnets pose significant threats to network security, and timely detection can prevent widespread damage. The project encompasses data preprocessing, exploratory data analysis, feature selection, model building, and hyperparameter tuning.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ This project aims to detect botnet activities in network traffic using machine l
 
 ## Objective
 
-The primary objective of this project is to develop an effective botnet detection system using various machine learning models. This includes:
+The primary objective of this project is to develop an effective botnet detection system using various machine-learning models. This includes:
 - Preprocessing and analyzing network traffic data.
 - Extracting and selecting relevant features.
 - Building and tuning machine learning models for classification.
@@ -92,7 +92,7 @@ The performance of each model is evaluated based on:
 
 ## Conclusion
 
-The project successfully demonstrates the use of machine learning techniques for botnet detection. By combining feature engineering, model building, and hyperparameter tuning, effective detection systems can be developed.
+The project successfully demonstrates the use of machine-learning techniques for botnet detection. By combining feature engineering, model building, and hyperparameter tuning, effective detection systems can be developed.
 
 ## Usage
 
